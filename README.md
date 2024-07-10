@@ -5,10 +5,6 @@ This repository contains a simple and easy-to-make landing page built with HTML,
 ## Image
  ![Image Alt](https://github.com/Mohit-Kucheriya/Landing_Pages_/blob/52ef55d8c48fbaa1b2b8d4a75a3233877ccf14ca/LandingPages.png)
 
-## Demo
-
-You can view a live demo of the landing page [here](#).
-
 ## Features
 
 - Responsive design
