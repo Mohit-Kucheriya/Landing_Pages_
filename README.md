@@ -1,0 +1,46 @@
+# Landing Page
+
+This repository contains a simple and easy-to-make landing page built with HTML, CSS, JavaScript, and GSAP for animations.
+
+## Image
+ ![Image Alt](https://github.com/Mohit-Kucheriya/Landing_Pages_/blob/52ef55d8c48fbaa1b2b8d4a75a3233877ccf14ca/LandingPages.png)
+
+## Features
+
+- Responsive design
+- Smooth scrolling animations with GSAP
+- Interactive elements
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- [GSAP (GreenSock Animation Platform)]
+
+## Installation
+
+To set up this project locally:
+
+1. Clone the repository:
+
+    ```sh
+    git clone https://github.com/yourusername/landing-page.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```sh
+    cd landing-page
+    ```
+
+3. Open `index.html` in your preferred web browser.
+
+## Usage
+
+To customize this landing page:
+
+1. **HTML**: Edit the `index.html` file to update the content.
+2. **CSS**: Modify the styles in the `styles.css` file located in the `css` directory.
+3. **JavaScript**: Update or add new functionality in the `scripts.js` file located in the `js` directory.
+4. **GSAP**: Use GSAP for advanced animations. Refer to the [GSAP documentation](https://greensock.com/docs/) for guidance.
