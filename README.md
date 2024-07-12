@@ -2,8 +2,11 @@
 
 This repository contains a simple and easy-to-make landing page built with HTML, CSS, JavaScript, and GSAP for animations.
 
-## Image
- ![Image Alt](https://github.com/Mohit-Kucheriya/Landing_Pages_/blob/52ef55d8c48fbaa1b2b8d4a75a3233877ccf14ca/LandingPages.png)
+## Screenshot
+![Screenshot 1](https://github.com/Mohit-Kucheriya/Landing_Pages_/blob/d8731d8734670bcb0d8c8aa7b0c98487243d5e5f/Screenshot/1.png)<br/>
+![Screenshot 2](https://github.com/Mohit-Kucheriya/Landing_Pages_/blob/d8731d8734670bcb0d8c8aa7b0c98487243d5e5f/Screenshot/2.png)<br/>
+![Screenshot 3](https://github.com/Mohit-Kucheriya/Landing_Pages_/blob/d8731d8734670bcb0d8c8aa7b0c98487243d5e5f/Screenshot/3.png)<br/>
+![Screenshot 4](https://github.com/Mohit-Kucheriya/Landing_Pages_/blob/d8731d8734670bcb0d8c8aa7b0c98487243d5e5f/Screenshot/4.png)
 
 ## Features
 
